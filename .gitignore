@@ -1,0 +1,12 @@
+# Ortam degiskenleri / gizli anahtarlar - ASLA commit edilmemeli
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit
+.streamlit/config.toml
